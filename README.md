@@ -244,7 +244,7 @@ T:localdb.t3
 C:1208
 D:71.48925ms
 ====================================
-T:localdb.global_query_review_history
+T:localdb.t4
 C:140
 D:10.003084ms
 ====================================
