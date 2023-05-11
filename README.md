@@ -199,9 +199,9 @@ Engine:
 Select Engine : 0
 Endpoint : test1.cluster-xxxxxxxxxxxxx.ap-northeast-2.rds.amazonaws.com
 Port : 3306
-User : kdbadm
+User :  admin
 Password : 
-Database : lighthouse_local
+Database : mysql
 [OK]kdbadm Connect for test1.cluster-xxxxxxxxxxxxx.ap-northeast-2.rds.amazonaws.com.
 ```
 
